@@ -1,5 +1,7 @@
 # Jingzhu Cheng
 
+> Language: [English](README.md) · [中文](README.zh-CN.md)
+
 **14 years in HR & organizational development → building AI application products**
 
 Applying to Fall 2027 master's programmes in applied AI and information systems (Hong Kong & Singapore).
