@@ -16,7 +16,7 @@
 | 项目 | 说明 |
 |---|---|
 | [市场温度计](https://github.com/chengxx707/market-thermometer) | 覆盖 31 个行业板块的市场温度量化工具，已在小红书发布。前端 + Python 策略引擎 |
-| [CapitalTrack](https://github.com/chengxx707/capitaltrack) | 面向散户的多因子打分 + 对话式研判工具。外滩黑客松 Coze 赛道全国 20 强 + 人气奖 + 想象力满格奖 |
+| [CapitalTrack](https://github.com/chengxx707/Capital-Track) | 面向散户的多因子打分 + 对话式研判工具。外滩黑客松 Coze 赛道全国 20 强 + 人气奖 + 想象力满格奖 |
 | [策略引擎](https://github.com/chengxx707/strategy-engine) | 市场温度计背后的回测与因子打分引擎，V5.11 → V5.20 |
 | [开发日志](https://github.com/chengxx707/build-log) | PRD、架构决策，以及更有用的部分——失败记录 |
 

@@ -16,7 +16,7 @@ I take problems I understand from the inside and turn them into working products
 A market-temperature indicator covering 31 industry sectors — built to cut through the information overload of tracking sector rotation.
 *Published on Xiaohongshu · Front-end + Python strategy engine*
 
-### [CapitalTrack](https://github.com/chengxx707/capitaltrack)
+### [CapitalTrack](https://github.com/chengxx707/Capital-Track)
 A multi-factor scoring and conversational analysis tool for retail investors.
 *Bund Hackathon (Coze track) — National Top 20, Popularity Award, Imagination Award*
 
