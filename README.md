@@ -4,8 +4,6 @@
 
 **14 years in HR & organizational development → building AI application products**
 
-Applying to Fall 2027 master's programmes in applied AI and information systems (Hong Kong & Singapore).
-
 ---
 
 ## What I build
@@ -19,6 +17,7 @@ A market-temperature indicator covering 31 industry sectors — built to cut thr
 ### [CapitalTrack](https://github.com/chengxx707/Capital-Track)
 A multi-factor scoring and conversational analysis tool for retail investors.
 *Bund Hackathon (Coze track) — National Top 20, Popularity Award, Imagination Award*
+website:https://capital-track.coze.site/
 
 ### [Strategy Engine](https://github.com/chengxx707/strategy-engine)
 The versioned backtesting and factor-scoring engine behind Market Thermometer. V5.11 → V5.20.
@@ -55,3 +54,5 @@ I have no formal programming background. I state that plainly — not as a cavea
 
 <!-- TODO: email address -->
 · GitHub: [@chengxx707](https://github.com/chengxx707)
+· E-mail: chengXX2025@gmail.com
+· xiaohongshu ID:155797759
